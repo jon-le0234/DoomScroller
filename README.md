@@ -4,13 +4,13 @@
 # Overview
 There are many tripods designed for smartphones, but this one is designed specifically for extended scrolling at home during the COVID pandemic, e.g., in bed, on the couch, on a recliner, on a table. Perfect for Netflix, FaceTime, and social media. Designed with accessibility in mind.
 
-# What is doomscrolling?
+## What is doomscrolling?
 
 [Doomscrolling](https://en.wikipedia.org/wiki/Doomscrolling), or doomsurfing, is the act of spending an excessive amount of screen time devoted to the absorption of negative news.
 
 I took a harm reduction approach. People are probably going to be doomscrolling anyways, so you may as well try to keep yourself safe while you're at it. No need to hurt your hands, neck, or eyes if you don't have to.
 
-# Origin
+## Origin
 
 During one of several COVID-19 lockdowns in 2020, I started to feel some strain in my hands and neck from scrolling all of the social media timelines on my smartphone. There was nowhere to go, nobody to visit, vaccines still being developed, all a person could do during the winter months was to escape into their smartphone for work and personal reasons.
 
