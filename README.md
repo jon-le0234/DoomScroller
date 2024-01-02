@@ -164,7 +164,7 @@ For clamp mounting, decide whether you want a general or single size.
 ## Mini DoomScroller Assembly
 See "Mini DoomScroller/Images/##.webp" files to follow along with assembly instructions.
 
-2023-01-02: Filenames in below instructions need to be updated.
+2024-01-02: Filenames in below instructions need to be updated.
 
 1. Insert torso.3mf and neck.3mf so that hinges are flush on both sides.
 1. Insert hip-bolt.3mf into the unthreaded side of the hinge, then screw into the M12 thread of neck.3mf to tighten hinge.
