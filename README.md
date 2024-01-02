@@ -1,65 +1,153 @@
 # DoomScroller
-3D-printed smartphone tripod for doomscrolling in bed during the COVID-19 pandemic lockdowns
+A 3D-printed smartphone tripod and harm reduction tool for doomscrolling, designed with accessibility in mind.
 
 # Overview
-There are many tripods designed for smartphones, but this one is designed specifically for extended scrolling at home during the COVID pandemic, e.g., in bed, on the couch, on a recliner, on a table. Perfect for Netflix, FaceTime, and social media. Designed with accessibility in mind.
+Originally designed for use during the COVID pandemic lockdowns, the DoomScroller and Mini DoomScroller are tripods for devices like smartphones, tablets, GoPros, and other rectangular prism objects you'd like to securely mount on unstable surfaces.
+
+Print one and give it to someone in need!
+
+Originally hosted in Thingiverse and Printables, but it became too much work to update them all during active development. This documentation is currently meant to keep myself on track as there are so many variables to juggle. I hope that moving to Github will also make it easier for future users who can't make sense of my incomplete updates across all four project pages.
 
 ## What is doomscrolling?
-
 [Doomscrolling](https://en.wikipedia.org/wiki/Doomscrolling), or doomsurfing, is the act of spending an excessive amount of screen time devoted to the absorption of negative news.
 
 I took a harm reduction approach. People are probably going to be doomscrolling anyways, so you may as well try to keep yourself safe while you're at it. No need to hurt your hands, neck, or eyes if you don't have to.
 
-## Origin
-
+## Origin Story
 During one of several COVID-19 lockdowns in 2020, I started to feel some strain in my hands and neck from scrolling all of the social media timelines on my smartphone. There was nowhere to go, nobody to visit, vaccines still being developed, all a person could do during the winter months was to escape into their smartphone for work and personal reasons.
 
 There were already some fine mounting and tripod projects on Thingiverse, so I remixed them.
-
 - [Tripod Phone Stand (no screw ! )](https://www.thingiverse.com/thing:4694593)
 - [Modular Mounting System](https://www.thingiverse.com/thing:2194278)
 - [Open Source Universal Ball Joint (to reuse!)](https://www.thingiverse.com/thing:4739696)
 
-# Printing Instructions
+# Getting Started
+Choose your style of DoomScroller:
+1. DoomScroller
+1. Mini DoomScroller
 
+Here is a brief comparison of the tradeoffs:
+| Feature | DoomScroller | Mini-DoomScroller |
+| -------- | -------- | -------- |
+| Edition | Original | Newer |
+| Location | Home | Data |
+| Size | Bigger | Smaller |
+| Materials | Plastic and metal | Plastic |
+| Print Time (Prusa MK3S) | ~6.5 hours (150 mm legs) | ~3 hours |
+
+# 1. DoomScroller
+## Print Instructions
 1. Pick a length for your DoomScroller's legs.
     - Either 150 mm (file 1a) or 220 mm (file 1b).
     - I'm 5'10" (178 cm) tall, and I prefer the 220 mm legs myself.
-2. Pick a mounting style.
-    - Most users will need the Frame (7b).
-    - iPhone 12 and newer may want to use the MagFace (7a).
-3. Files are listed from bottom to top of the DoomScroller.
+1. Pick a mounting style.
+    1. Most users will need the Frame (file 7b).
+        1. Frame also requires printing of Frame lock (file 8) and Frame screw (file 9).
+    1. iPhone 12 and newer may want to use the MagFace (file 7a).
+        1. MagFace also requires an Apple MagSafe charger.
 
-Printing a plate with the 150 mm legs and Frame mount with a Prusa i3 MK3S will take about 8 hours at 0.300 mm layer height.
+CAUTION: Clamping too tightly on your device can break it; apparently plastic threads can be pretty strong. I take no responsibility for broken devices, but I have designed clamps that prevent damage by limiting the amount of threading.
 
-## Non-3D-Printed Parts Required
+To get a better sense of the smartphone use case, I made a table of physical dimensions of popular smartphones (Device sizes.csv). Still a work in progress, but sharing if it'll be useful to others.
 
-- Three (3) of M3x8 mm socket head cap screws
-- Three (3) of M3 hex nuts
-- Three (3) of M5x20mm hex bolt
-- Three (3) of M5 hex nuts
+### Non-3D-Printed Parts Required
+1. Three (3) of M3x8 mm socket head cap screws
+1. Three (3) of M3 hex nuts
+1. Three (3) of M5x20mm hex bolt
+1. Three (3) of M5 hex nuts
 
 ## Colour Schemes
-
-You can do whatever you want here, truly, but here are some ideas based on my prototypes. See uploaded photos of colour experiments with an older design.
-
-### Two-Tone
-
-1. Dominant colours: Legs (1ab), Hip (2), Neck (3), Ball Joint split (5), MagFace (7a) or Frame base (7b), Frame lock (7b).
-2. Accent colours: Knob (4), Ball Joint screw (6), and Frame screw (7b).
+You can do whatever you want here, truly, but files are organized for a two-tone colourway.
+1. Dominant colours
+    1. Legs (1ab)
+    1. Hip (2)
+    1. Neck (3)
+    1. Ball Joint split (5)
+    1. MagFace (7a)
+    or
+    1. Frame base (7b)
+        1. Frame lock (8)
+1. Accent colours
+    1. Knob (4)
+    1. Ball Joint screw (6)
+    1. Frame screw (7b).
 
 ### Logos
-
-e.g., companies, sports teams, flags
-
 Consider how many colours are used and how much area each one takes in the overall image. Usually there will be one or two dominant colours, and then some accent colours. You can even get different colours for the screws and nuts.
-
 - Dominant colours: Legs, Neck, Hip, Frame Base, Frame Lock.
 - Accent colours: Hip, Knob, Ball Joint Screw, Frame Screw, metal screws.
 
 See the example photo of the Edmonton Oilers' McDavid jersey with an older prototype I made for a friend. I got lucky with this logo because of the oil derrick structure and orange oil drop look created by the ball joint.
 
-Print one and give it to someone in need!
+# 2. Mini DoomScroller
+## Print Instructions
+Users have a few options for simple or semi-custom prints:
+1. Mounting style
+1. Amount of threading
+1. Device width
+1. Device depth
+
+### Simple
+1. Open plate file in PrusaSlicer as project to preserve the painted-on support settings.
+    1. Mini DoomScroller - Clamp - Full Plate w100 x d15.3mf
+    1. Mini DoomScroller - Clamp - Accent Colour.3mf
+1. Assemble.
+
+### Semi-Custom
+1. Select mounting style.
+    1. MagFace
+    1. GoPro
+    1. Clamp
+1. For clamp mounting, decide whether you want a general or single size.
+    1. General size has a longer thread, allowing for devices of multiple widths and depths.
+        1. Good for using DoomScrollers with devices of different sizes, e.g., sharing with other users.
+    1. Single size has a shorter thread, allowing for devices of fewer widths and depths.
+        1. Good for preventing damage to devices.
+        1. Good for personal use and sharing with other devices of similar size.
+        1. Currently only some combinations of widths and depths are available.
+    1. I'm working on a parametric OpenSCAD model for the clamp. Not ready yet.
+        1. This model will allow for even further customization, such as with the Thingiverse Customizer.
+        
+## Assembly
+See photo gallery to follow along with assembly instructions.
+
+1. Insert torso.3mf and neck.3mf so that hinges are flush on both sides.
+1. Insert hip-bolt.3mf into the unthreaded side of the hinge, then screw into the M12 thread of neck.3mf to tighten hinge.
+1. Place ball.3mf into the spherical section in neck.3mf.
+1. Place ball-joint-nut.3mf over ball.3mf, and screw onto the M22 thread of neck.3mf to tighten.
+1. Screw the selected mount into the M12 thread of ball.3mf.
+1. If using magface.3mf, skip to step 9.
+1. Insert clamp-movable-jaw.3mf over clamp-frame.3mf.
+1. Screw clamp-nut.3mf onto the M15 thread of Clamp frame.3mf.
+1. Place left-leg-threaded.3mf on the underside of the joint on torso.3mf. It will sit between torso.3mf and neck.3mf when folded.
+1. Place right-leg.3mf on the opposite side of the torso joint.
+1. (Optional) Use leg-bolt-washer.3mf on top of right-leg.3mf. This adds length for leg-bolt.3mf, and adds another option for mixing colours.
+1. Insert leg-bolt.3mf through right-leg.3mf and screw into M12 thread of left-leg.3mf.
+1. It is finished! 
+
+## Print Recommendations
+### Colours
+You can choose whichever colour scheme you like! I’ve printed Mini DoomScrollers in monochrome, two-tone, and rainbow.
+
+Found the two-tone to be received best by beta testers, so I’ve organized the files into folders “Main Colour” and “Accent Colour.”
+
+### Materials
+PLA and PETG work great!
+
+PETG is a little bouncier.
+
+## Supports
+I set the following PrusaSlicer settings for easier removal of supports (see screenshot in gallery):
+
+1. Snug for “Style” is better than Organic for this model.
+1. 90º for “Pattern angle” exposes the snug supports' folds.
+1. 0.3 mm for both “Top contact Z distance” and “Bottom contact Z distance.
+1. 2 layers for both “Top interface layers” and “Bottom interface layers.”
+
+## Additional Considerations
+1. OnShape link for intrepid users that want to customize the design further: [Mini DoomScroller](https://cad.onshape.com/documents/ee0d92fdf6736f8a494244af/w/14bbf8e148085a817d797314/e/513b945eaf0116b0d17e9980?renderMode=0&uiState=65944536be34dc4e93d4e8f1)
+1. Ball joint uses an M12 thread with 1.5 mm pitch.
+1. Clamp screw, hip bolt, and leg bolt use an M15 thread with 1.5 mm pitch.
 
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
