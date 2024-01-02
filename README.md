@@ -56,10 +56,10 @@ See the example photo of the Edmonton Oilers' McDavid jersey with an older proto
 
 Print one and give it to someone in need!
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
-[![CC BY 4.0][cc-by-image]][cc-by]
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
 
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+[cc-by-nc]: http://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://i.creativecommons.org/l/by-nc/4.0/88x31.png
