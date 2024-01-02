@@ -1,12 +1,48 @@
 # DoomScroller
+![DoomScroller/Images/landscape.webp](DoomScroller smartphone tripod holding an iPhone Pro Max in landscape)
+!["Mini DoomScroller/Images/Clamp Landscape (clampscape).webp"](Mini DoomScroller smartphone tripod holding an iPhone Pro Max in landscape, showing iOS 17 StandBy)
 A 3D-printed smartphone tripod and harm reduction tool for doomscrolling, designed with accessibility in mind.
 
 # Overview
-Originally designed for use during the COVID pandemic lockdowns, the DoomScroller and Mini DoomScroller are tripods for devices like smartphones, tablets, GoPros, and other rectangular prism objects you'd like to securely mount on unstable surfaces.
+Originally designed for use during the COVID pandemic lockdowns, the DoomScroller and Mini DoomScroller are tripods for securely mount devices like smartphones, tablets, GoPros, and other rectangular prism objects.
+
+## Features
+1. Open source 3D model
+    1. Remixed [popular, proven designs](#origin-story) on Thingiverse.
+    1. Made in [OnShape CAD](https://cad.onshape.com/documents/ee0d92fdf6736f8a494244af/w/14bbf8e148085a817d797314/e/513b945eaf0116b0d17e9980?renderMode=0&uiState=65944536be34dc4e93d4e8f1) free plan, which requires that models be shared openly.
+1. Sturdy
+    1. Compared with traditional tripods, the DoomScroller has adjustable legs for use on uneven surfaces, such as beds, couches, and reclining chairs.
+1. 3D-printed
+1. Customizable design
+    1. Unlike commercial, off-the-shelf smartphone tripods and stands, the DoomScroller can be printed in all your favourite colours.
+    1. [Custom fastener threads](https://forum.onshape.com/discussion/4867/new-featurescript-thread-creator)
+1. Environmentally friendly
+    1. Get a custom tripod without requiring a manufacturer to mass-produce and distribute a generic product.
+    1. Easy to assemble and repair.
+1. Portable
+    1. The Mini DoomScroller folds up into a small size that can fit into a small purse, large pocket, or backpack.
+1. Parametric, one day
+    1. Generate a custom clamp with a parametric model, once I finish the OpenSCAD design.
+1. Actively developed
+    1. I'm constantly pursuing a better design because I currently use the DoomScroller on a daily basis.
+    1. Taking feature requests.
+        1. My friend asked if I could make the DoomScroller more portable for their travels, so the Mini DoomScroller was born.
+        1. GoPro functionality was requested by a user on Printables.
+
+## Use Cases
+The DoomScroller and Mini DoomScroller can be used :
+1. read social media on your smartphone in bed,
+1. watch video on your own device on a plane's tray table,
+1. join video conferencing calls like Zoom (ZoomScroller),
+1. record video where other tripods are too bulky to pack,
+1. charge your smartphone with MagSafe,
+1. use StandBy with iOS 17 on your bedside table,
+1. pair with a PanaVise [305](http://panavise.com/index.html?pageID=1&page=full&--eqskudatarq=12) or [300](http://panavise.com/index.html?pageID=1&page=full&--eqskudatarq=532) base to provide 360º horizontal rotation and 90º vertical tilt, as well as to use with other compatible PanaVise products, like [circuit board holders](http://panavise.com/index.html?pageID=1&page=full&--eqskudatarq=24),
+1. record video on a GoPro.
 
 Print one and give it to someone in need!
 
-Originally hosted in Thingiverse and Printables, but it became too much work to update them all during active development. This documentation is currently meant to keep myself on track as there are so many variables to juggle. I hope that moving to Github will also make it easier for future users who can't make sense of my incomplete updates across all four project pages.
+I originally hosted these two projects in Thingiverse and Printables, but it became too much work to update all four pages during active development. Thus, this documentation is meant to keep me on track. I hope that moving to Github will also make it easier for future users who can't make sense of my incomplete instructions across the original project pages.
 
 ## What is doomscrolling?
 [Doomscrolling](https://en.wikipedia.org/wiki/Doomscrolling), or doomsurfing, is the act of spending an excessive amount of screen time devoted to the absorption of negative news.
@@ -23,11 +59,11 @@ There were already some fine mounting and tripod projects on Thingiverse, so I r
 
 # Getting Started
 Choose your style of DoomScroller:
-1. DoomScroller
-1. Mini DoomScroller
+1. [DoomScroller](#1-doomscroller)
+1. [Mini DoomScroller](#2-mini-doomscroller)
 
 Here is a brief comparison of the tradeoffs:
-| Feature | DoomScroller | Mini-DoomScroller |
+| Feature | DoomScroller | Mini DoomScroller |
 | -------- | -------- | -------- |
 | Edition | Original | Newer |
 | Location | Home | Data |
@@ -79,6 +115,9 @@ Consider how many colours are used and how much area each one takes in the overa
 
 See the example photo of the Edmonton Oilers' McDavid jersey with an older prototype I made for a friend. I got lucky with this logo because of the oil derrick structure and orange oil drop look created by the ball joint.
 
+## DoomScroller Assembly
+See DoomScroller/Images/##.webp for visual assembly instructions.
+
 # 2. Mini DoomScroller
 ## Print Instructions
 Users have a few options for simple or semi-custom prints:
@@ -91,7 +130,7 @@ Users have a few options for simple or semi-custom prints:
 1. Open plate file in PrusaSlicer as project to preserve the painted-on support settings.
     1. Mini DoomScroller - Clamp - Full Plate w100 x d15.3mf
     1. Mini DoomScroller - Clamp - Accent Colour.3mf
-1. Assemble.
+1. [Assemble](#mini-doomscroller-assembly).
 
 ### Semi-Custom
 1. Select mounting style.
@@ -108,8 +147,10 @@ Users have a few options for simple or semi-custom prints:
     1. I'm working on a parametric OpenSCAD model for the clamp. Not ready yet.
         1. This model will allow for even further customization, such as with the Thingiverse Customizer.
         
-## Assembly
-See photo gallery to follow along with assembly instructions.
+## Mini DoomScroller Assembly
+See "Mini DoomScroller/Images/##.webp" files to follow along with assembly instructions.
+
+2023-01-02: Filenames in below instructions need to be updated.
 
 1. Insert torso.3mf and neck.3mf so that hinges are flush on both sides.
 1. Insert hip-bolt.3mf into the unthreaded side of the hinge, then screw into the M12 thread of neck.3mf to tighten hinge.
