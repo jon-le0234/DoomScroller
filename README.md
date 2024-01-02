@@ -7,6 +7,14 @@ A 3D-printed smartphone tripod and harm reduction tool for doomscrolling, design
 # Overview
 Originally designed for use during the COVID pandemic lockdowns, the DoomScroller and Mini DoomScroller are tripods for securely mount devices like smartphones, tablets, GoPros, and other rectangular prism objects.
 
+Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+[cc-by-nc]: http://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://i.creativecommons.org/l/by-nc/4.0/88x31.png
+
 ## Features
 1. Open source 3D model
     1. Remixed [popular, proven designs](#origin-story) on Thingiverse.
@@ -39,7 +47,7 @@ The DoomScroller and Mini DoomScroller can be used in many applications.
 1. Record video where other tripods are too bulky to pack.
 1. Charge your smartphone with MagSafe.
 1. Use StandBy with iOS 17 on your bedside table.
-1. Pair with a PanaVise [305](http://panavise.com/index.html?pageID=1&page=full&--eqskudatarq=12) or [300](http://panavise.com/index.html?pageID=1&page=full&--eqskudatarq=532) base to provide 360º horizontal rotation and 90º vertical tilt, as well as to use with other compatible PanaVise products, like [circuit board holders](http://panavise.com/index.html?pageID=1&page=full&--eqskudatarq=24).
+1. Pair with a PanaVise [305](http://panavise.com/index.html?pageID=1&page=full&--eqskudatarq=12) or [300](http://panavise.com/index.html?pageID=1&page=full&--eqskudatarq=532) base to provide 360º horizontal rotation and 90º vertical tilt, and use with other compatible PanaVise products, like [circuit board holders](http://panavise.com/index.html?pageID=1&page=full&--eqskudatarq=24).
 1. Record video on a GoPro.
 
 Print one and give it to someone in need!
@@ -139,15 +147,19 @@ Users have a few options for simple or semi-custom prints:
     1. MagFace
     1. GoPro
     1. Clamp
-1. For clamp mounting, decide whether you want a general or single size.
-    1. General size has a longer thread, allowing for devices of multiple widths and depths.
-        1. Good for using DoomScrollers with devices of different sizes, e.g., sharing with other users.
-    1. Single size has a shorter thread, allowing for devices of fewer widths and depths.
-        1. Good for preventing damage to devices.
-        1. Good for personal use and sharing with other devices of similar size.
-        1. Currently only some combinations of widths and depths are available.
-    1. I'm working on a parametric OpenSCAD model for the clamp. Not ready yet.
-        1. This model will allow for even further customization, such as with the Thingiverse Customizer.
+1. Assemble.
+
+For clamp mounting, decide whether you want a general or single size.
+1. General size
+    1. Uses a longer thread, allowing for devices of multiple widths and depths.
+    1. Good for using DoomScrollers with devices of different sizes, e.g., sharing with other users.
+1. Single size
+    1. Has a shorter thread, allowing for devices of fewer widths and depths.
+    1. Good for preventing damage to devices.
+    1. Good for personal use and sharing with other devices of similar size.
+    1. Currently only some combinations of widths and depths are available.
+1. I'm working on a parametric OpenSCAD model for the clamp. Not ready yet.
+    1. This model will allow for even further customization, such as with the Thingiverse Customizer.
         
 ## Mini DoomScroller Assembly
 See "Mini DoomScroller/Images/##.webp" files to follow along with assembly instructions.
@@ -189,13 +201,8 @@ I set the following PrusaSlicer settings for easier removal of supports (see scr
 
 ## Additional Considerations
 1. OnShape link for intrepid users that want to customize the design further: [Mini DoomScroller](https://cad.onshape.com/documents/ee0d92fdf6736f8a494244af/w/14bbf8e148085a817d797314/e/513b945eaf0116b0d17e9980?renderMode=0&uiState=65944536be34dc4e93d4e8f1)
+    1. Requires an OnShape account.
+    1. Create a copy of the design.
+    1. Customize to your heart's content.
 1. Ball joint uses an M12 thread with 1.5 mm pitch.
 1. Clamp screw, hip bolt, and leg bolt use an M15 thread with 1.5 mm pitch.
-
-Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
-
-[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
-
-[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
-[cc-by-nc]: http://creativecommons.org/licenses/by-nc/4.0/
-[cc-by-nc-image]: https://i.creativecommons.org/l/by-nc/4.0/88x31.png
