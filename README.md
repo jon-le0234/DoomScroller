@@ -7,7 +7,7 @@ A 3D-printed smartphone tripod and harm reduction tool for doomscrolling, design
 # Overview
 Originally designed for use during the COVID pandemic lockdowns, the DoomScroller and Mini DoomScroller are tripods for securely mount devices like smartphones, tablets, GoPros, and other rectangular prism objects.
 
-Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
 [![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
 
