@@ -1,11 +1,12 @@
 # DoomScroller
 3D-printed smartphone tripod for doomscrolling in bed during the COVID-19 pandemic lockdowns
 
+# Overview
 There are many tripods designed for smartphones, but this one is designed specifically for extended scrolling at home during the COVID pandemic, e.g., in bed, on the couch, on a recliner, on a table. Perfect for Netflix, FaceTime, and social media. Designed with accessibility in mind.
 
 # What is doomscrolling?
 
-Doomscrolling or Doomsurfing is the act of spending an excessive amount of screen time devoted to the absorption of negative news.
+[Doomscrolling](https://en.wikipedia.org/wiki/Doomscrolling), or doomsurfing, is the act of spending an excessive amount of screen time devoted to the absorption of negative news.
 
 I took a harm reduction approach. People are probably going to be doomscrolling anyways, so you may as well try to keep yourself safe while you're at it. No need to hurt your hands, neck, or eyes if you don't have to.
 
@@ -21,11 +22,15 @@ There were already some fine mounting and tripod projects on Thingiverse, so I r
 
 # Printing Instructions
 
-1. Pick a length for your DoomScroller's legs, either 150 mm (file 1a) or 220 mm (file 1b).
+1. Pick a length for your DoomScroller's legs.
+    - Either 150 mm (file 1a) or 220 mm (file 1b).
     - I'm 5'10" (178 cm) tall, and I prefer the 220 mm legs myself.
-2, Pick a mounting style. iPhone 12 and 13 users may want to use the MagFace (7a), and most users will need the Frame (7b).
+2. Pick a mounting style.
+    - Most users will need the Frame (7b).
+    - iPhone 12 and newer may want to use the MagFace (7a).
+3. Files are listed from bottom to top of the DoomScroller.
 
-Files are listed from bottom to top of the DoomScroller. Printing a plate with the 150 mm legs and Frame mount with a Prusa i3 MK3S, it takes about 8 hours at 0.300 mm layer height.
+Printing a plate with the 150 mm legs and Frame mount with a Prusa i3 MK3S will take about 8 hours at 0.300 mm layer height.
 
 ## Non-3D-Printed Parts Required
 
