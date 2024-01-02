@@ -1,6 +1,6 @@
 # DoomScroller
 ![DoomScroller smartphone tripod holding an iPhone Pro Max in landscape](DoomScroller/Images/landscape.webp)
-![Mini DoomScroller smartphone tripod holding an iPhone Pro Max in landscape, showing iOS 17 StandBy]("Mini DoomScroller/Images/Clamp Landscape (clampscape).webp")
+![Mini DoomScroller smartphone tripod holding an iPhone Pro Max in landscape, showing iOS 17 StandBy](Mini-DoomScroller/Images/Clamp-Landscape-clampscape.webp)
 A 3D-printed smartphone tripod and harm reduction tool for doomscrolling, designed with accessibility in mind.
 
 # Overview
@@ -10,35 +10,36 @@ Originally designed for use during the COVID pandemic lockdowns, the DoomScrolle
 1. Open source 3D model
     1. Remixed [popular, proven designs](#origin-story) on Thingiverse.
     1. Made in [OnShape CAD](https://cad.onshape.com/documents/ee0d92fdf6736f8a494244af/w/14bbf8e148085a817d797314/e/513b945eaf0116b0d17e9980?renderMode=0&uiState=65944536be34dc4e93d4e8f1) free plan, which requires that models be shared openly.
-1. Sturdy
-    1. Compared with traditional tripods, the DoomScroller has adjustable legs for use on uneven surfaces, such as beds, couches, and reclining chairs.
-1. 3D-printed
-1. Customizable design
-    1. Unlike commercial, off-the-shelf smartphone tripods and stands, the DoomScroller can be printed in all your favourite colours.
-    1. [Custom fastener threads](https://forum.onshape.com/discussion/4867/new-featurescript-thread-creator)
-1. Environmentally friendly
-    1. Get a custom tripod without requiring a manufacturer to mass-produce and distribute a generic product.
-    1. Easy to assemble and repair.
+1. Wider applications than traditional tripods and stands for electronic devices
+    1. Ball joint enables wider viewing angles and orientations.
+    1. Adjustable legs allow for use on uneven surfaces, such as beds, couches, and reclining chairs.
 1. Portable
     1. The Mini DoomScroller folds up into a small size that can fit into a small purse, large pocket, or backpack.
-1. Parametric, one day
-    1. Generate a custom clamp with a parametric model, once I finish the OpenSCAD design.
+1. 3D-printed
+    1. Customizable design
+        1. Unlike commercial, off-the-shelf smartphone tripods and stands, the DoomScroller can be printed in all your favourite colours.
+        1. [Custom fastener threads](https://forum.onshape.com/discussion/4867/new-featurescript-thread-creator)
+    1. Environmentally friendly
+        1. Get a custom tripod without requiring a manufacturer to mass-produce and distribute a generic product.
+        1. Modular design makes the DoomScroller easy to assemble, repair, and upgrade.
 1. Actively developed
     1. I'm constantly pursuing a better design because I currently use the DoomScroller on a daily basis.
     1. Taking feature requests.
         1. My friend asked if I could make the DoomScroller more portable for their travels, so the Mini DoomScroller was born.
         1. GoPro functionality was requested by a user on Printables.
+1. Parametric, one day
+    1. Generate a custom clamp with a parametric model, once I finish the OpenSCAD design.
 
 ## Use Cases
-The DoomScroller and Mini DoomScroller can be used :
-1. read social media on your smartphone in bed,
-1. watch video on your own device on a plane's tray table,
-1. join video conferencing calls like Zoom (ZoomScroller),
-1. record video where other tripods are too bulky to pack,
-1. charge your smartphone with MagSafe,
-1. use StandBy with iOS 17 on your bedside table,
-1. pair with a PanaVise [305](http://panavise.com/index.html?pageID=1&page=full&--eqskudatarq=12) or [300](http://panavise.com/index.html?pageID=1&page=full&--eqskudatarq=532) base to provide 360º horizontal rotation and 90º vertical tilt, as well as to use with other compatible PanaVise products, like [circuit board holders](http://panavise.com/index.html?pageID=1&page=full&--eqskudatarq=24),
-1. record video on a GoPro.
+The DoomScroller and Mini DoomScroller can be used in many applications.
+1. Read social media on your smartphone in bed.
+1. Watch video on your own device on a plane's tray table.
+1. Join video conferencing calls like Zoom (ZoomScroller).
+1. Record video where other tripods are too bulky to pack.
+1. Charge your smartphone with MagSafe.
+1. Use StandBy with iOS 17 on your bedside table.
+1. Pair with a PanaVise [305](http://panavise.com/index.html?pageID=1&page=full&--eqskudatarq=12) or [300](http://panavise.com/index.html?pageID=1&page=full&--eqskudatarq=532) base to provide 360º horizontal rotation and 90º vertical tilt, as well as to use with other compatible PanaVise products, like [circuit board holders](http://panavise.com/index.html?pageID=1&page=full&--eqskudatarq=24).
+1. Record video on a GoPro.
 
 Print one and give it to someone in need!
 
