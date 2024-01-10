@@ -1,6 +1,6 @@
 # DoomScroller
-![DoomScroller smartphone tripod holding an iPhone Pro Max in landscape](DoomScroller/Images/banana.png)
-![Mini DoomScroller smartphone tripod holding an iPhone Pro Max in landscape, showing iOS 17 StandBy](Mini-DoomScroller/Images/Clamp-Landscape-clampscape.png)
+![DoomScroller smartphone tripod holding an iPhone Pro Max in landscape](Images/DoomScroller/banana.png)
+![Mini DoomScroller smartphone tripod holding an iPhone Pro Max in landscape, showing iOS 17 StandBy](Images/Mini-DoomScroller/Clamp-Landscape-clampscape.png)
 
 A 3D-printed smartphone tripod and harm reduction tool for doomscrolling, designed with accessibility in mind.
 
